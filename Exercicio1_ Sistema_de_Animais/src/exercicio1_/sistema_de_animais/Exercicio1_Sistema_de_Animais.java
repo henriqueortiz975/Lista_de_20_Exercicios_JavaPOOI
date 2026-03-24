@@ -12,6 +12,7 @@ public class Exercicio1_Sistema_de_Animais {
 
         for (Animal animal : animais) {
             animal.emitirSom();
+            System.out.println("");
         }
     }
 }
