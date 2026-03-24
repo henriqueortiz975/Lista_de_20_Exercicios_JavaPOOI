@@ -32,7 +32,7 @@ public class Veiculo {
     }
     
     public void mover(){
-        System.out.println("Em Movimento");
+        System.out.println("Em Movimento em: " + "Km em X rodas");
     }
     
 }

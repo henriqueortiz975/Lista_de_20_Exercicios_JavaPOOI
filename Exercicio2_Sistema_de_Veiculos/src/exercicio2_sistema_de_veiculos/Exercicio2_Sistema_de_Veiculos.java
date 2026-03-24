@@ -12,6 +12,7 @@ public class Exercicio2_Sistema_de_Veiculos {
 
         for (Veiculo v : veiculos) {
             v.mover();
+            System.out.println("");
         }
 
     }
